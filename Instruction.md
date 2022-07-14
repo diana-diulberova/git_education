@@ -22,3 +22,6 @@
 
 ## Логика работы ГИТ
 ![2022-07-14_195650.png](https://drive.google.com/file/d/1yv_JrhvbmckqpoS9v9tVkYjvIml9HLvr/view?usp=sharing)
+
+## Где узнать о ГИТ больше?
+[Обучающие материалы](https://www.atlassian.com/ru/git/tutorials)
