@@ -24,7 +24,9 @@
 * **git branch** - показать существующие ветки;
 * **git branch new_branch** - создать новую ветку с указанным именем на текущем коммите;
 * **git checkout new_branch** - перейти в указанную ветку;
-* **git checkout -b new_branch** - создать новую ветку с указанным именем и перейти в неё.
+* **git checkout -b new_branch** - создать новую ветку с указанным именем и перейти в неё;
+* **git branch --merged** - показать ветки, уже слитые с активной;
+* **git branch --no-merged** - показать ветки, не слитые с активной.
 
 ## Логика работы ГИТ
 ![2022-07-14_195650.png](https://drive.google.com/file/d/1yv_JrhvbmckqpoS9v9tVkYjvIml9HLvr/view?usp=sharing)
